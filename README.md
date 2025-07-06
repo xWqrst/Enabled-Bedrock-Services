@@ -19,5 +19,5 @@ This PowerShell script helps you quickly check and manage essential Windows serv
 
 You can run the script by executing this into powershel : 
 
-iex (irm 'https://raw.githubusercontent.com/xWqrst/Enabled-Bedrock-Services/main/Enabled_Bedrock_Services.ps1')
+iex (irm 'https://raw.githubusercontent.com/xWqrst/Enabled-Bedrock-Services/refs/heads/main/Enabled_Bedrock_Services')
 
