@@ -1,0 +1,2 @@
+Get-Service -Name Appinfo, CDPUserSvc_60674, DPS, DusmSvc, EventLog, PcaSvc, Schedule, SysMain, DiagTrack | 
+    Format-Table Name, Status, StartType
